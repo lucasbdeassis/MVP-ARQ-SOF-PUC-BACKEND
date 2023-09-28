@@ -1,0 +1,6 @@
+.venv/*
+.vscode/*
+.ignore/*
+.env
+hermes/api/static/openapi.json
+__pycache__/

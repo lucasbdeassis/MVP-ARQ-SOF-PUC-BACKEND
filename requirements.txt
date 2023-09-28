@@ -1,0 +1,12 @@
+Flask==2.*
+Flask-Cors==4.*
+pydantic==2.*
+PyJWT==2.*
+pynubank==2.*
+pytest==7.*
+python-dotenv==1.*
+requests==2.*
+SQLAlchemy==2.*
+apispec==6.*
+apispec-webframeworks==0.*
+python-dateutil==2.*

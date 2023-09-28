@@ -1,0 +1,7 @@
+*.pyc
+.ignore/
+venv/
+.env/
+.vscode/
+.pytest_cache/
+*.log
